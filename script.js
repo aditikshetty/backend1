@@ -11,7 +11,7 @@ const fs = require('fs');
     if(err)console.error(err);
     else console.log('file copied');
 });*/
-fs.unlink('hello1.txt',function(err){
+/*fs.unlink('hello1.txt',function(err){
     if(err)console.error(err);
-    
-});
+
+});*/
